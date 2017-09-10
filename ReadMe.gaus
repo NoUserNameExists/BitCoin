@@ -1,0 +1,4 @@
+
+set PATH=%path%;<Path of Java>
+javac Simulation.java
+java Simulation 0.1 0.15 0.01 10 >temp.gaus
